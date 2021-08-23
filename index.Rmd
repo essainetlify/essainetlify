@@ -138,4 +138,4 @@ background-position: 95% 50%
 ---
 
 class: middle right 
-## **Merci**
+## **Merci de votre attention**
