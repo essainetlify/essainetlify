@@ -137,6 +137,5 @@ background-position: 95% 50%
 
 ---
 
----
 class: middle right 
 ## **Merci**
