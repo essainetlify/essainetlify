@@ -38,7 +38,7 @@ style_duo_accent(
 
 
 
-# **Création de site inter net**
+# **Création de site internet**
 
 ## Utilisation de netlify
 
@@ -113,8 +113,24 @@ background-position: 95% 50%
 
 ---
 
-## Créer un compte github
+## Créer un compte github et un "repository" pour le site
+
+<video width="650" height="400" controls>
+  <source src="video3.mp4" type="video/mp4">
+</video>
 
 ---
 
-## Créer un compte Nelify et le connecter au compte github
+## Télécharger les fichiers du dossier markdown dans le repository github
+
+<video width="650" height="400" controls>
+  <source src="video4.mp4" type="video/mp4">
+</video>
+
+---
+
+## Créer un compte Nelify, le connecter au compte github, deployer le site et le renommer
+
+<video width="650" height="400" controls>
+  <source src="video5.mp4" type="video/mp4">
+</video>
