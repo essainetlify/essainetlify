@@ -134,3 +134,9 @@ background-position: 95% 50%
 <video width="650" height="400" controls>
   <source src="video5.mp4" type="video/mp4">
 </video>
+
+---
+
+---
+class: middle right 
+## **Merci**
