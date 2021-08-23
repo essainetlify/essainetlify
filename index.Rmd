@@ -1,0 +1,120 @@
+
+---
+
+output: 
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    lib_dir: libs
+    nature:
+        highlightStyle: github
+        highlightLines: true
+        countIncrementalSlides: false
+---
+
+class: middle right 
+<style>
+
+.center2 {
+  margin: 0;
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+</style>
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#1B4F72", 
+  secondary_color = "#0E6251",
+  header_font_google = google_font("Josefin Sans"),
+  text_font_google   = google_font("Montserrat", "300", "300i"),
+  code_font_google   = google_font("Fira Mono")
+)
+```
+
+
+
+# **Création de site inter net**
+
+## Utilisation de netlify
+
+---
+class:midlle left  
+background-image: url(https://images.unsplash.com/photo-1557487307-8dc8ec048eb8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80)
+background-size: 417px 589px
+background-position: 95% 50%
+.pull-left[
+
+## Créer un dossier sur votre ordinateur pour le site internet 
+
+### Nommer le dossier par exemple: `netlify`
+
+]
+---
+
+## Créer un projet Rstudio sur votre ordinateur
+
+### Mettre le dossier projet qui sera généré dans un nouveau dossier: par exemple `usingnetlify`
+
+### Le dossier `usingnetlify` devra être dans le dossier initial `netlify`
+
+### Besoin de plus de détails? Voir prochaine vidéo
+
+---
+
+## Créer un projet Rstudio sur votre ordinateur
+
+<video width="640" height="480" controls>
+  <source src="video1.mp4" type="video/mp4">
+</video>
+
+---
+
+class:middle left  
+background-image: url(https://images.unsplash.com/photo-1544654795-39ef9d3102bb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80)
+background-size: 400px 600px
+background-position: 95% 50%
+
+.pull-left[
+
+## Créer un dossier dans le dossier projet `usingnetlify`. 
+
+### Nommer ce dossier `markdown` par exemple
+
+### Ce dossier comportera le fichier markdown du site internet et les autres fichiers qui seront générés par R
+
+]
+
+---
+
+## Créer un fichier markdown à partir de RStudio  
+
+* Mettre le fichier dans le dossier crée à l'étape précédente pour les fichiers `markdown`
+
+* Nommer le fichier markdown `index`
+
+* Personalisez le fichier markdown `index`
+
+* La prochaine slide explique le processus de création d'un fichier `markdown`
+
+* Pour plus d'informations sur la personalisation d'un fichier `markdown`, voir [ici](https://usingxaringan.netlify.app)
+
+---
+
+## Créer un fichier markdown à partir de RStudio  
+
+<video width="650" height="400" controls>
+  <source src="video2.mp4" type="video/mp4">
+</video>
+
+---
+
+## Créer un compte github
+
+---
+
+## Créer un compte Nelify et le connecter au compte github
