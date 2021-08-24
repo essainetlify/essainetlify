@@ -38,7 +38,7 @@ style_duo_accent(
 
 
 
-# **Création de site internet - test MAJ**
+# **Création de site internet**
 
 ## Utilisation de netlify
 
